@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: spring-vault
+
+  cloud:
+    vault:
+      uri: http://localhost:8200
+      token: s.RMvR2JiJonHyZpUF5FbSU2AF
+      scheme: http
